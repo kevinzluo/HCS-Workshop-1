@@ -7,9 +7,15 @@
 }
 
 .info-bar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+
 }
 
 .info-item {
+
 }
 
 .info-link {
@@ -23,6 +29,12 @@
 }
 
 .nav-background {
+  display: flex;
+  flex-direction: row;
+  border-top: 4px black solid;
+  border-bottom: 4px black solid;
+  width: 50%;
+  justify-content: space-around;
 }
 
 .nav-item {

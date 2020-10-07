@@ -6,17 +6,18 @@
   width: 50%;
 }
 
-.timeline-item {
+.education-item {
   display: flex;
-  width: 50%;
+  padding: 3px;
+  width: 80%;
   height: 120px;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   cursor: pointer;
   transition: all 0.2s ease;
 }
 
-.timeline-item:hover {
+.education-item:hover {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
   background-color: cornflowerblue;

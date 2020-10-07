@@ -4,12 +4,13 @@ Welcome to my website!
 
 ### Added Feature #1
 
-Description
+Added Education Page
 
-Screenshots
+![img](./src/assets/education.png)
 
 ### Added Feature #2
 
-Description
+Added button on About Me that shows and hides an image
 
-Screenshots
+![img](./src/assets/aboutbuttonbefore.png)
+![img](./src/assets/aboutbuttonafter.png)
